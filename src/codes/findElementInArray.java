@@ -20,7 +20,6 @@ public class findElementInArray {
 				break;
 			}
 
-			
 		}
 		
 		if (b) {
